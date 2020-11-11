@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30626.31
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrainInterfaces", "GrainInterfaces\GrainInterfaces.csproj", "{43C9F906-609A-4E96-8F18-6D170C8AAC81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grains", "Grains\Grains.csproj", "{2C82748F-DB3C-4645-804B-2A9099E34913}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Silo", "Silo\Silo.csproj", "{A4698FC8-AD3D-4CD1-849E-A423187C970F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43C9F906-609A-4E96-8F18-6D170C8AAC81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43C9F906-609A-4E96-8F18-6D170C8AAC81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43C9F906-609A-4E96-8F18-6D170C8AAC81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43C9F906-609A-4E96-8F18-6D170C8AAC81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C82748F-DB3C-4645-804B-2A9099E34913}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C82748F-DB3C-4645-804B-2A9099E34913}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C82748F-DB3C-4645-804B-2A9099E34913}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C82748F-DB3C-4645-804B-2A9099E34913}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4698FC8-AD3D-4CD1-849E-A423187C970F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4698FC8-AD3D-4CD1-849E-A423187C970F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4698FC8-AD3D-4CD1-849E-A423187C970F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4698FC8-AD3D-4CD1-849E-A423187C970F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECCB1EDD-5E3A-4424-8545-7EC842364506}
+	EndGlobalSection
+EndGlobal
